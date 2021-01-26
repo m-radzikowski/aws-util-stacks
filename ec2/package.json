@@ -1,0 +1,9 @@
+{
+  "name": "ec2",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "deploy": "serverless deploy"
+  }
+}

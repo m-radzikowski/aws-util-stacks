@@ -1,0 +1,12 @@
+{
+  "name": "util-stacks",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "*"
+  ],
+  "devDependencies": {
+    "serverless": "2.21.1"
+  }
+}
